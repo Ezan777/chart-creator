@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <ChartCreatorProject>
+        <Serie>Padova</Serie>
+        <Serie>New York</Serie>
+        <Serie>Roma</Serie>
+        <Serie>Milano</Serie>
+        <SeriesNumber>4</SeriesNumber>
+        <SeriesEnd>end of series</SeriesEnd>
+        <NumberOfRows>4</NumberOfRows>
+        <ContainersEnd>end of containers</ContainersEnd>
+        <ChartType>BarChart</ChartType>
+        <EndChartType>end of type</EndChartType>
+        <Label>2015</Label>
+        <Label>2018</Label>
+        <Label>2021</Label>
+        <Label>2024</Label>
+        <EndOfLabels>end of labels</EndOfLabels>
+        <Color>#960194</Color>
+        <Color>#ff0000</Color>
+        <Color>#0055ff</Color>
+        <Color>#1db53b</Color>
+        <EndOfColors>end of colors</EndOfColors>
+        <Data>55</Data>
+        <Data>60</Data>
+        <Data>58</Data>
+        <Data>63</Data>
+        <Data>104</Data>
+        <Data>103</Data>
+        <Data>105</Data>
+        <Data>110</Data>
+        <Data>78</Data>
+        <Data>80</Data>
+        <Data>76</Data>
+        <Data>77</Data>
+        <Data>75</Data>
+        <Data>79</Data>
+        <Data>82</Data>
+        <Data>86</Data>
+        <EndOfData>end of data</EndOfData>
+        <ChartTitle>Population in different cities</ChartTitle>
+        <EndOfChartTitle>end of chart title</EndOfChartTitle>
+    </ChartCreatorProject>
+</root>

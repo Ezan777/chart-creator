@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <ChartCreatorProject>
+        <ChartType>SplineChart</ChartType>
+        <EndChartType>end of chart type</EndChartType>
+        <Label>0</Label>
+        <Label>3</Label>
+        <Label>4</Label>
+        <Label>8</Label>
+        <Label>9</Label>
+        <Label>10</Label>
+        <Label>14</Label>
+        <Label>16</Label>
+        <Label>22</Label>
+        <Label>28</Label>
+        <EndOfLabels>end of labels</EndOfLabels>
+        <EndOfColors>end of colors</EndOfColors>
+        <Data>0</Data>
+        <Data>12</Data>
+        <Data>15</Data>
+        <Data>17</Data>
+        <Data>13</Data>
+        <Data>20</Data>
+        <Data>18</Data>
+        <Data>21</Data>
+        <Data>19</Data>
+        <Data>25</Data>
+        <EndOfData>end of data</EndOfData>
+        <ChartTitle>Economic report</ChartTitle>
+        <EndOfChartTitle>end of chart title</EndOfChartTitle>
+    </ChartCreatorProject>
+</root>

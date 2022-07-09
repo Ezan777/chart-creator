@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <ChartCreatorProject>
+        <Serie>Chrome</Serie>
+        <Serie>Edge</Serie>
+        <Serie>Firefox</Serie>
+        <Serie>Opera</Serie>
+        <SeriesNumber>4</SeriesNumber>
+        <SeriesEnd>end of series</SeriesEnd>
+        <NumberOfRows>6</NumberOfRows>
+        <ContainersEnd>end of containers</ContainersEnd>
+        <ChartType>BarChart</ChartType>
+        <EndChartType>end of type</EndChartType>
+        <Label>Italia</Label>
+        <Label>Spagna</Label>
+        <Label>Inghilterra</Label>
+        <Label>Francia</Label>
+        <Label>Germania</Label>
+        <Label>Stati uniti</Label>
+        <EndOfLabels>end of labels</EndOfLabels>
+        <Color>#236407</Color>
+        <Color>#233542</Color>
+        <Color>#906577</Color>
+        <Color>#448985</Color>
+        <Color>#bc0000</Color>
+        <Color>#931072</Color>
+        <EndOfColors>end of colors</EndOfColors>
+        <Data>169</Data>
+        <Data>234</Data>
+        <Data>189</Data>
+        <Data>223</Data>
+        <Data>222</Data>
+        <Data>315</Data>
+        <Data>67</Data>
+        <Data>64</Data>
+        <Data>70</Data>
+        <Data>66</Data>
+        <Data>63</Data>
+        <Data>167</Data>
+        <Data>109</Data>
+        <Data>113</Data>
+        <Data>132</Data>
+        <Data>122</Data>
+        <Data>145</Data>
+        <Data>156</Data>
+        <Data>87</Data>
+        <Data>76</Data>
+        <Data>109</Data>
+        <Data>125</Data>
+        <Data>114</Data>
+        <Data>143</Data>
+        <EndOfData>end of data</EndOfData>
+        <ChartTitle>Browser usages in different countries</ChartTitle>
+        <EndOfChartTitle>end of chart title</EndOfChartTitle>
+    </ChartCreatorProject>
+</root>

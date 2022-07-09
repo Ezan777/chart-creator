@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <ChartCreatorProject>
+        <Serie>Padova</Serie>
+        <Serie>Roma</Serie>
+        <Serie>Milano</Serie>
+        <SeriesNumber>3</SeriesNumber>
+        <SeriesEnd>end of series</SeriesEnd>
+        <NumberOfRows>4</NumberOfRows>
+        <ContainersEnd>end of containers</ContainersEnd>
+        <ChartType>BarChart</ChartType>
+        <EndChartType>end of type</EndChartType>
+        <Label>Carta</Label>
+        <Label>Plastica</Label>
+        <Label>Vetro</Label>
+        <Label>Secco</Label>
+        <EndOfLabels>end of labels</EndOfLabels>
+        <Color>#449374</Color>
+        <Color>#253276</Color>
+        <Color>#189492</Color>
+        <Color>#244050</Color>
+        <EndOfColors>end of colors</EndOfColors>
+        <Data>123</Data>
+        <Data>269</Data>
+        <Data>150</Data>
+        <Data>110</Data>
+        <Data>198</Data>
+        <Data>335</Data>
+        <Data>236</Data>
+        <Data>253</Data>
+        <Data>220</Data>
+        <Data>299</Data>
+        <Data>268</Data>
+        <Data>180</Data>
+        <EndOfData>end of data</EndOfData>
+        <ChartTitle>Rifiuti di diverse città</ChartTitle>
+        <EndOfChartTitle>end of chart title</EndOfChartTitle>
+    </ChartCreatorProject>
+</root>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <ChartCreatorProject>
+        <ChartType>PieChart</ChartType>
+        <EndChartType>end of type</EndChartType>
+        <Label>Cows</Label>
+        <Label>Pigs</Label>
+        <Label>Hens</Label>
+        <Label>Goats</Label>
+        <Label>Sheeps</Label>
+        <EndOfLabels>end of labels</EndOfLabels>
+        <Color>#87542c</Color>
+        <Color>#ffaaab</Color>
+        <Color>#aa5500</Color>
+        <Color>#550000</Color>
+        <Color>#adadad</Color>
+        <EndOfColors>end of colors</EndOfColors>
+        <Data>20</Data>
+        <Data>35</Data>
+        <Data>47</Data>
+        <Data>9</Data>
+        <Data>32</Data>
+        <EndOfData>end of data</EndOfData>
+        <ChartTitle>Animals in the farm</ChartTitle>
+        <EndOfChartTitle>end of chart title</EndOfChartTitle>
+    </ChartCreatorProject>
+</root>

@@ -1,0 +1,15 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix = "icons">
+        <file alias = "save.png">Icons/save.png</file>
+        <file alias = "delete_bin.png">Icons/delete_bin.png</file>
+        <file alias = "new_circle.png">Icons/new_circle.png</file>
+        <file alias = "save_as.png">Icons/save_as.png</file>
+        <file alias = "edit_pencil_black.png">Icons/edit_pencil_black.png</file>
+        <file alias = "save_as_image.png">Icons/save_as_image.png</file>
+        <file alias = "add_black.png">Icons/add_black.png</file>
+        <file alias = "fullscreen_icon.png">Icons/fullscreen_icon.png</file>
+        <file alias = "dark_mode.png">Icons/dark_mode.png</file>
+        <file alias = "light_mode.png">Icons/light_mode.png</file>
+    </qresource>
+</RCC>
