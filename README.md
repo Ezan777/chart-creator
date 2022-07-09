@@ -41,4 +41,4 @@ make
 ```
 Be sure that the cmake path in the CMake-list file is correct.
 
-***If you are using riot games api remember to set your api key in the RiotApi.h file***
+***If you are using riot games api remember to set your api key in the RiotApi.cpp file***
