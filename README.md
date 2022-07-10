@@ -1,4 +1,4 @@
-# Chart-creator
+# [Chart-creator](https://ezan777.github.io/chart-creator/)
 Chart creator is a program that permits to create, modifiy and save 3 types of chart: bar-charts, pie-charts and spline charts.
 ## GUI
 The GUI is composed by differents tabs, every tab represent one project. Tab can be closed but when they are closed the content is not going to be saved so remember to save it before closing the tab.
